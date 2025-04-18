@@ -1,0 +1,14 @@
+streamlit
+groq
+faiss-cpu
+numpy
+pandas
+pdfplumber
+python-docx
+python-pptx
+easyocr
+Pillow
+sentence-transformers
+openpyxl
+os
+json
