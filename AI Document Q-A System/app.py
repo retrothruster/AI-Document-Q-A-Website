@@ -13,7 +13,7 @@ st.set_page_config(page_title="📚 QnA Bot", layout="centered")
 
 # Add the logo at the top center
 logo_path = "IITM_logo.jpg"  # Replace with the path to your logo image
-st.image(logo_path, width=200)  # Adjust width as needed to scale the logo
+st.image(logo_path, width=100)  # Adjust width as needed to scale the logo
 
 st.title("🤖 Document-Based QnA Bot")
 st.write("Upload a document and ask questions based on it! \n This might take a while, Have Patience")
