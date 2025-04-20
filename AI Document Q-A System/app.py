@@ -12,7 +12,7 @@ os.makedirs("temp", exist_ok=True)
 st.set_page_config(page_title="📚 QnA Bot", layout="centered")
 
 # Add the logo at the top center
-logo_path = "https://raw.githubusercontent.com/retrothruster/AI-Document-Q-A-Website/blob/main/IITM_logo.jpg.png"  # Replace with the path to your logo image
+logo_path = "IITM_logo.jpg"  # Replace with the path to your logo image
 st.image(logo_path, width=200)  # Adjust width as needed to scale the logo
 
 st.title("🤖 Document-Based QnA Bot")
